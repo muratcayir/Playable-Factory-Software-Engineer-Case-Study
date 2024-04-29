@@ -1,4 +1,4 @@
-# Proje Adı
+# layable-Factory-Software-Engineer-Case-Study
 
 Bu proje, React, Ant Design ve Node.js/Express, Typescript kullanılarak oluşturulmuş full-stack bir kullanıcı yönetimi ve Todo listesi uygulamasıdır. Kullanıcılar kayıt olabilir, giriş yapabilir ve kişisel todo listelerini yönetebilir.
 
